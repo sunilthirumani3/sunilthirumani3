@@ -4,7 +4,9 @@
 
 I turn messy, multi-source data into decisions.
 
-~4 years across data analytics, BI, and ETL — most recently building an outcome-measurement system on a star-schema warehouse for a Toronto non-profit, surfacing client outcomes across 8 dashboards and a 5-factor risk model. **MPS in Analytics @ Northeastern University.** AWS Certified Cloud Practitioner.
+~4 years across data analytics, BI, and ETL — most recently building an outcome-measurement system on a star-schema warehouse for a Toronto non-profit, surfacing client outcomes across 8 dashboards and a 5-factor risk model. 
+· MPS in Analytics @ Northeastern University.
+· AWS Certified Cloud Practitioner.
 
 🛂 **Eligible to work for any employer in Canada** — open work permit, no sponsorship required.
 📍 Toronto / GTA · open to hybrid & on-site.
@@ -13,13 +15,32 @@ I turn messy, multi-source data into decisions.
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python (pandas, scikit-learn, NumPy) · SQL (PostgreSQL, MySQL, Oracle) · R
-**Data & ETL:** Apache Spark · Apache Airflow · ETL · Star-Schema / Dimensional Modeling · Data Warehousing
-**Cloud:** AWS (Lambda, S3, SageMaker, QuickSight) · Azure
-**BI & Viz:** Power BI · Tableau · matplotlib · seaborn
-**Tools:** Docker · Git
+**Languages:** 
+· Python (pandas, scikit-learn, NumPy) 
+· SQL (PostgreSQL, MySQL, Oracle) 
+· R
+**Data & ETL:** 
+·Apache Spark 
+· Apache Airflow 
+· ETL 
+· Star-Schema / Dimensional Modeling 
+· Data Warehousing
+**Cloud:** 
+· AWS (Lambda S3, SageMaker, QuickSight) 
+· Azure
+**BI & Viz:** 
+· Power BI 
+· Tableau 
+· matplotlib 
+· seaborn
+**Tools:** 
+· Docker 
+· Git
 
-📜 *Currently pursuing:* Microsoft PL-300 (Power BI) · Microsoft DP-700 (Fabric Data Engineering) · AWS Data Engineer Associate (DEA-C01)
+📜 *Currently pursuing:* 
+· Microsoft PL-300 (Power BI) 
+· Microsoft DP-700 (Fabric Data Engineering) 
+· AWS Data Engineer Associate (DEA-C01)
 
 ---
 
@@ -33,7 +54,6 @@ I turn messy, multi-source data into decisions.
 | **[EduRetain Early-Warning System](#)** | Random Forest + Logistic Regression student-risk classifier (CRISP-DM) | **88.4%** accuracy · **0.89** AUC-ROC |
 | **[Pharmacy Claims Data Warehouse](#)** | MySQL star-schema warehouse — 3NF modeling, window functions, data-quality test suite | Clean, documented dimensional model + automated validation checks |
 
-<sub>↳ Replace each `(#)` with the live repo link once uploaded. Pin these repos on your profile.</sub>
 
 ---
 
