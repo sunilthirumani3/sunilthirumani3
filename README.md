@@ -29,6 +29,6 @@ I turn messy, multi-source data into decisions. ~4 years across data analytics, 
 
 ### 📫 Let's connect
 📧 sunilthirumani3@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/sunilthirumani)
+🔗 [LinkedIn](https://www.linkedin.com/in/sunil-thirumani/)
 
 *Open to Data Analyst, BI Analyst, Analytics Engineer & Data Engineer roles in the GTA.*
