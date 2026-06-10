@@ -54,9 +54,8 @@ I turn messy, multi-source data into decisions.
 | **[EduRetain Early-Warning System](#)** | Random Forest + Logistic Regression student-risk classifier (CRISP-DM) | **88.4%** accuracy · **0.89** AUC-ROC |
 | **[Pharmacy Claims Data Warehouse](#)** | MySQL star-schema warehouse — 3NF modeling, window functions, data-quality test suite | Clean, documented dimensional model + automated validation checks |
 
-
 ---
-
+#sql # powerBI #sql #data-engineering #etl #python #api 
 ### 📫 Let's connect
 
 📧 sunilthirumani3@gmail.com
